@@ -9444,6 +9444,27 @@
     "icon": "SaitaBlockChain(SBC)"
   }]
 }, {
+  "name": "Cuckoo Sepolia",
+  "title": "Cuckoo AI Testnet Sepolia",
+  "chain": "CuckooAI",
+  "icon": "cuckoo-ai",
+  "rpc": ["https://testnet-rpc.cuckoo.network", "wss://testnet-rpc.cuckoo.network"],
+  "faucets": ["https://cuckoo.network/portal/faucet/"],
+  "nativeCurrency": {
+    "name": "CuckooAI",
+    "symbol": "CAI",
+    "decimals": 18
+  },
+  "infoURL": "https://cuckoo.network",
+  "shortName": "caisepolia",
+  "chainId": 1210,
+  "networkId": 1210,
+  "explorers": [{
+    "name": "Cuckoo Sepolia Explorer",
+    "url": "https://testnet-scan.cuckoo.network",
+    "standard": "EIP3091"
+  }]
+}, {
   "name": "Popcateum Mainnet",
   "chain": "POPCATEUM",
   "rpc": ["https://dataseed.popcateum.org"],
@@ -25195,7 +25216,7 @@
     "standard": "EIP3091"
   }]
 }, {
-  "name": "COINSEC Network",
+  "name": "COINSEC",
   "title": "COINSEC Network",
   "chain": "coinsecnetwork",
   "icon": "coinsec",
@@ -26245,8 +26266,8 @@
   "rpc": ["https://public-node.api.boraportal.com/bora/mainnet"],
   "faucets": [],
   "nativeCurrency": {
-    "name": "BGAS",
-    "symbol": "BGAS",
+    "name": "BORA",
+    "symbol": "BORA",
     "decimals": 18
   },
   "infoURL": "https://www.boraportal.com",

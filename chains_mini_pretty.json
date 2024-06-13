@@ -5862,6 +5862,19 @@
   "faucets": [],
   "infoURL": "https://saitachain.com"
 }, {
+  "name": "Cuckoo Sepolia",
+  "chainId": 1210,
+  "shortName": "caisepolia",
+  "networkId": 1210,
+  "nativeCurrency": {
+    "name": "CuckooAI",
+    "symbol": "CAI",
+    "decimals": 18
+  },
+  "rpc": ["https://testnet-rpc.cuckoo.network", "wss://testnet-rpc.cuckoo.network"],
+  "faucets": ["https://cuckoo.network/portal/faucet/"],
+  "infoURL": "https://cuckoo.network"
+}, {
   "name": "Popcateum Mainnet",
   "chainId": 1213,
   "shortName": "popcat",
@@ -15534,7 +15547,7 @@
   "faucets": ["https://rollux.id/faucetapp"],
   "infoURL": "https://rollux.com"
 }, {
-  "name": "COINSEC Network",
+  "name": "COINSEC",
   "chainId": 57451,
   "shortName": "coinsecnetwork",
   "networkId": 57451,
@@ -16150,8 +16163,8 @@
   "shortName": "BORAchain",
   "networkId": 77001,
   "nativeCurrency": {
-    "name": "BGAS",
-    "symbol": "BGAS",
+    "name": "BORA",
+    "symbol": "BORA",
     "decimals": 18
   },
   "rpc": ["https://public-node.api.boraportal.com/bora/mainnet"],
