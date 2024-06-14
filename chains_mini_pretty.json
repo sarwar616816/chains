@@ -6226,6 +6226,19 @@
   "faucets": ["https://aia-faucet-testnet.aiachain.org"],
   "infoURL": "https://aiachain.org"
 }, {
+  "name": "Sei Testnet",
+  "chainId": 1328,
+  "shortName": "sei-testnet",
+  "networkId": 1328,
+  "nativeCurrency": {
+    "name": "Sei",
+    "symbol": "SEI",
+    "decimals": 18
+  },
+  "rpc": ["https://evm-rpc-testnet.sei-apis.com", "wss://evm-ws-testnet.sei-apis.com"],
+  "faucets": ["https://atlantic-2.app.sei.io/faucet"],
+  "infoURL": "https://www.sei.io"
+}, {
   "name": "Sei Network",
   "chainId": 1329,
   "shortName": "sei",
@@ -9475,6 +9488,19 @@
   "rpc": ["https://testnet.bobaopera.boba.network", "wss://wss.testnet.bobaopera.boba.network", "https://replica.testnet.bobaopera.boba.network", "wss://replica-wss.testnet.bobaopera.boba.network"],
   "faucets": [],
   "infoURL": "https://boba.network"
+}, {
+  "name": "Bahamut ocean",
+  "chainId": 4058,
+  "shortName": "ocean",
+  "networkId": 4058,
+  "nativeCurrency": {
+    "name": "FTN",
+    "symbol": "FTN",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc1.ocean.bahamutchain.com"],
+  "faucets": [],
+  "infoURL": "https://bahamut.io"
 }, {
   "name": "Nahmii 3 Mainnet",
   "chainId": 4061,
@@ -13284,6 +13310,19 @@
   "rpc": ["https://test-rpc.vitruveo.xyz"],
   "faucets": ["https://faucet.vitruveo.xyz"],
   "infoURL": "https://www.vitruveo.xyz"
+}, {
+  "name": "Vana Satori Testnet",
+  "chainId": 14801,
+  "shortName": "satori",
+  "networkId": 14801,
+  "nativeCurrency": {
+    "name": "DAT",
+    "symbol": "DAT",
+    "decimals": 18
+  },
+  "rpc": ["http://rpc.satori.vana.org"],
+  "faucets": ["https://faucet.vana.org"],
+  "infoURL": "https://satori.vana.org"
 }, {
   "name": "Humanode Testnet 5 Israfel",
   "chainId": 14853,
@@ -18732,6 +18771,19 @@
   "faucets": ["https://faucet.oneworldchain.org"],
   "infoURL": "https://oneworldchain.org"
 }, {
+  "name": "Pentagon Testnet",
+  "chainId": 555555,
+  "shortName": "pentagon-testnet",
+  "networkId": 555555,
+  "nativeCurrency": {
+    "name": "Pentagon",
+    "symbol": "PEN",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc-testnet.pentagon.games"],
+  "faucets": ["https://bridge-testnet.pentagon.games"],
+  "infoURL": "https://pentagon.games"
+}, {
   "name": "Eclipse Testnet",
   "chainId": 555666,
   "shortName": "eclipset",
@@ -19303,6 +19355,19 @@
   "rpc": ["https://mainnet-rpc.ecroxscan.com/"],
   "faucets": [],
   "infoURL": "https://ecroxcoin.io/"
+}, {
+  "name": "Supernet Testnet",
+  "chainId": 998899,
+  "shortName": "supernetchain",
+  "networkId": 998899,
+  "nativeCurrency": {
+    "name": "CHAIN",
+    "symbol": "CHAIN",
+    "decimals": 18
+  },
+  "rpc": ["https://testnet-rpc.supernet.chaingames.io/"],
+  "faucets": ["https://faucet.chaingames.io"],
+  "infoURL": ""
 }, {
   "name": "AmChain",
   "chainId": 999999,
