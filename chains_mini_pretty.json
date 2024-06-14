@@ -4237,6 +4237,19 @@
   "faucets": [],
   "infoURL": "https://info.avastar.cc"
 }, {
+  "name": "Darwinia Koi Testnet",
+  "chainId": 701,
+  "shortName": "darwinia-koi",
+  "networkId": 701,
+  "nativeCurrency": {
+    "name": "Koi Network Native Token",
+    "symbol": "KRING",
+    "decimals": 18
+  },
+  "rpc": ["https://koi-rpc.darwinia.network"],
+  "faucets": [],
+  "infoURL": "https://darwinia.network/"
+}, {
   "name": "BlockChain Station Mainnet",
   "chainId": 707,
   "shortName": "bcs",
@@ -10775,6 +10788,19 @@
   "rpc": ["https://evmrpc.irishub-1.irisnet.org", "https://iris-evm.publicnode.com", "wss://iris-evm.publicnode.com"],
   "faucets": [],
   "infoURL": "https://www.irisnet.org"
+}, {
+  "name": "OX Chain",
+  "chainId": 6699,
+  "shortName": "ox-chain",
+  "networkId": 6699,
+  "nativeCurrency": {
+    "name": "OX",
+    "symbol": "OX",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.oxscan.io"],
+  "faucets": [],
+  "infoURL": "https://ox.fun/chain"
 }, {
   "name": "PAXB Mainnet",
   "chainId": 6701,
@@ -18848,6 +18874,19 @@
   "rpc": ["https://mainnet-rpc.alltra.global"],
   "faucets": [],
   "infoURL": "https://alltra.world"
+}, {
+  "name": "Open Campus Codex",
+  "chainId": 656476,
+  "shortName": "open-campus-codex",
+  "networkId": 656476,
+  "nativeCurrency": {
+    "name": "EDU",
+    "symbol": "EDU",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.open-campus-codex.gelato.digital"],
+  "faucets": [],
+  "infoURL": "https://raas.gelato.network/rollups/details/public/open-campus-codex"
 }, {
   "name": "Xai Mainnet",
   "chainId": 660279,
