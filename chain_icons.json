@@ -1359,6 +1359,14 @@
     "format": "png"
   }]
 }, {
+  "name": "iChain",
+  "icons": [{
+    "url": "ipfs://QmcumhDxUyoLTHkcMKgPqkpGnnjwSTqE2KGFnDXXFY8mMo",
+    "width": 40,
+    "height": 38,
+    "format": "png"
+  }]
+}, {
   "name": "garizon",
   "icons": [{
     "url": "ipfs://QmW3WRyuLZ95K8hvV2QN6rP5yWY98sSzWyVUxD2eUjXGrc",
@@ -1692,6 +1700,14 @@
     "url": "ipfs://QmXMDj6iAFn2ducQcUU1M87PMMdT2jfyL3Tp3Lz5uUD5Lv",
     "width": 200,
     "height": 200,
+    "format": "png"
+  }]
+}, {
+  "name": "ailayer",
+  "icons": [{
+    "url": "ipfs://QmYoqc8rm8PrBg9jqfpsrxd6zdPEqDozbyNVMkBo3QMAFP",
+    "width": 500,
+    "height": 500,
     "format": "png"
   }]
 }, {
@@ -3439,6 +3455,14 @@
     "format": "png"
   }]
 }, {
+  "name": "gtc",
+  "icons": [{
+    "url": "ipfs://bafybeiaaq7gogws6uqcvo6imxbxfgpdhewybh7bxgtfny2i2as5nidbdje",
+    "width": 312,
+    "height": 312,
+    "format": "png"
+  }]
+}, {
   "name": "dx",
   "icons": [{
     "url": "ipfs://QmYBup5bWoBfkaHntbcgW8Ji7ncad7f53deJ4Q55z4PNQs",
@@ -5089,10 +5113,10 @@
 }, {
   "name": "coinsec",
   "icons": [{
-    "url": "ipfs://QmeUyBe58BPndt6SpH9Tn1a8AYpNtHbMVhVyZt8Ppc4HTB",
-    "width": 200,
-    "height": 200,
-    "format": "svg"
+    "url": "ipfs://QmYJUAdaz3Q1wfkCp4xL9nSrxXzSyiQkS86w6TgW765naK",
+    "width": 512,
+    "height": 512,
+    "format": "png"
   }]
 }, {
   "name": "fncy",

@@ -2569,7 +2569,7 @@
     "symbol": "BTC",
     "decimals": 18
   },
-  "rpc": ["https://mainnet.b2-rpc.com", "https://rpc.bsquared.network", "https://b2-mainnet.alt.technology", "https://b2-mainnet-public.s.chainbase.com"],
+  "rpc": ["https://mainnet.b2-rpc.com", "https://rpc.bsquared.network", "https://b2-mainnet.alt.technology", "https://b2-mainnet-public.s.chainbase.com", "https://rpc.ankr.com/b2"],
   "faucets": [],
   "infoURL": "https://www.bsquared.network"
 }, {
@@ -5663,7 +5663,7 @@
     "symbol": "BTC",
     "decimals": 18
   },
-  "rpc": ["https://b2-testnet.alt.technology"],
+  "rpc": ["https://b2-testnet.alt.technology", "https://rpc.ankr.com/b2_testnet", "https://testnet-rpc.bsquared.network"],
   "faucets": [],
   "infoURL": "https://www.bsquared.network"
 }, {
@@ -5836,6 +5836,19 @@
   "faucets": [],
   "infoURL": "https://iorachain.com"
 }, {
+  "name": "Cuckoo Chain",
+  "chainId": 1200,
+  "shortName": "cai",
+  "networkId": 1200,
+  "nativeCurrency": {
+    "name": "CuckooAI",
+    "symbol": "CAI",
+    "decimals": 18
+  },
+  "rpc": ["https://mainnet-rpc.cuckoo.network", "wss://mainnet-rpc.cuckoo.network"],
+  "faucets": [],
+  "infoURL": "https://cuckoo.network"
+}, {
   "name": "Evanesco Testnet",
   "chainId": 1201,
   "shortName": "avis",
@@ -5927,9 +5940,9 @@
   "faucets": [],
   "infoURL": "https://www.cyclenetwork.io/"
 }, {
-  "name": "Hybrid Testnet",
+  "name": "Hybrid Testnet (Deprecated)",
   "chainId": 1224,
-  "shortName": "hyb",
+  "shortName": "hyb_deprecated",
   "networkId": 1224,
   "nativeCurrency": {
     "name": "Hybrid",
@@ -5937,6 +5950,19 @@
     "decimals": 18
   },
   "rpc": ["https://testnet-rpc.buildonhybrid.com"],
+  "faucets": [],
+  "infoURL": "https://buildonhybrid.com"
+}, {
+  "name": "Hybrid Testnet",
+  "chainId": 1225,
+  "shortName": "hyb",
+  "networkId": 1225,
+  "nativeCurrency": {
+    "name": "Hybrid",
+    "symbol": "HYB",
+    "decimals": 18
+  },
+  "rpc": ["https://hybrid-testnet.rpc.caldera.xyz/http", "wss://hybrid-testnet.rpc.caldera.xyz/ws"],
   "faucets": [],
   "infoURL": "https://buildonhybrid.com"
 }, {
@@ -7383,6 +7409,19 @@
   "faucets": [],
   "infoURL": "https://sanko.xyz/"
 }, {
+  "name": "Kyoto",
+  "chainId": 1997,
+  "shortName": "kyoto",
+  "networkId": 1997,
+  "nativeCurrency": {
+    "name": "Kyoto",
+    "symbol": "KYOTO",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.kyotochain.io"],
+  "faucets": [],
+  "infoURL": "https://kyotoprotocol.io"
+}, {
   "name": "Kyoto Testnet",
   "chainId": 1998,
   "shortName": "kyoto-testnet",
@@ -7951,7 +7990,7 @@
     "symbol": "Dolarz",
     "decimals": 18
   },
-  "rpc": ["https://test-market.bigsb.io", "wss://test-market.bigsb.io"],
+  "rpc": ["https://test-market.bigsb.network", "wss://test-market.bigsb.network"],
   "faucets": [],
   "infoURL": "https://bigshortbets.com/"
 }, {
@@ -8579,6 +8618,32 @@
   "faucets": ["https://testnet.whitechain.io/faucet"],
   "infoURL": "https://whitechain.io"
 }, {
+  "name": "AILayer Testnet",
+  "chainId": 2648,
+  "shortName": "ailayer-testnet",
+  "networkId": 2648,
+  "nativeCurrency": {
+    "name": "BTC",
+    "symbol": "BTC",
+    "decimals": 18
+  },
+  "rpc": ["https://testnet-rpc.ailayer.xyz", "wss://testnet-rpc.ailayer.xyz"],
+  "faucets": [],
+  "infoURL": "https://ailayer.xyz/"
+}, {
+  "name": "AILayer Mainnet",
+  "chainId": 2649,
+  "shortName": "ailayer-mainnet",
+  "networkId": 2649,
+  "nativeCurrency": {
+    "name": "BTC",
+    "symbol": "BTC",
+    "decimals": 18
+  },
+  "rpc": ["https://mainnet-rpc.ailayer.xyz", "wss://mainnet-rpc.ailayer.xyz"],
+  "faucets": [],
+  "infoURL": "https://ailayer.xyz/"
+}, {
   "name": "APEX",
   "chainId": 2662,
   "shortName": "apexmainnet",
@@ -9060,6 +9125,19 @@
   "faucets": ["https://testnet-faucet.layeredge.io"],
   "infoURL": "https://www.layeredge.io"
 }, {
+  "name": "GTCSCAN",
+  "chainId": 3490,
+  "shortName": "gtc",
+  "networkId": 3490,
+  "nativeCurrency": {
+    "name": "GTC",
+    "symbol": "GTC",
+    "decimals": 18
+  },
+  "rpc": ["https://gtc-dataseed.gtcscan.io/"],
+  "faucets": [],
+  "infoURL": "https://gtcscan.io/"
+}, {
   "name": "Paribu Net Testnet",
   "chainId": 3500,
   "shortName": "prbtestnet",
@@ -9161,6 +9239,19 @@
     "decimals": 18
   },
   "rpc": ["https://rpc.ichainscan.com"],
+  "faucets": [],
+  "infoURL": "https://islamicoin.finance"
+}, {
+  "name": "iChain Testnet",
+  "chainId": 3645,
+  "shortName": "ISLAMIT",
+  "networkId": 3645,
+  "nativeCurrency": {
+    "name": "ISLAMICOIN",
+    "symbol": "ISLAMI",
+    "decimals": 18
+  },
+  "rpc": ["https://istanbul.ichainscan.com"],
   "faucets": [],
   "infoURL": "https://islamicoin.finance"
 }, {
@@ -12947,6 +13038,19 @@
   "faucets": ["https://faucet.sardisnetwork.com"],
   "infoURL": "https://mysardis.com"
 }, {
+  "name": "Artela Testnet",
+  "chainId": 11822,
+  "shortName": "Artela",
+  "networkId": 11822,
+  "nativeCurrency": {
+    "name": "ART",
+    "symbol": "ART",
+    "decimals": 18
+  },
+  "rpc": ["https://betanet-rpc1.artela.network"],
+  "faucets": [],
+  "infoURL": "https://artela.network/"
+}, {
   "name": "Santiment Intelligence Network DEPRECATED",
   "chainId": 11888,
   "shortName": "SANold",
@@ -15614,16 +15718,16 @@
 }, {
   "name": "COINSEC Network",
   "chainId": 57451,
-  "shortName": "coinsecnetwork",
+  "shortName": "sec",
   "networkId": 57451,
   "nativeCurrency": {
     "name": "COINSEC",
     "symbol": "SEC",
-    "decimals": 18
+    "decimals": 8
   },
   "rpc": ["https://mainnet-rpc.coinsec.network"],
   "faucets": [],
-  "infoURL": "https://explorer.coinsec.network/"
+  "infoURL": "https://coinsec.network"
 }, {
   "name": "Sepolia PGN (Public Goods Network)",
   "chainId": 58008,
@@ -16232,7 +16336,7 @@
     "symbol": "BORA",
     "decimals": 18
   },
-  "rpc": ["https://public-node.api.boraportal.com/bora/mainnet"],
+  "rpc": ["https://public-node.api.boraportal.com/bora/mainnet", "https://public-node.api.boraportal.io/bora/mainnet"],
   "faucets": [],
   "infoURL": "https://www.boraportal.com"
 }, {
@@ -16391,6 +16495,19 @@
   "rpc": ["https://rpc-amoy.polygon.technology", "https://polygon-amoy-bor-rpc.publicnode.com", "wss://polygon-amoy-bor-rpc.publicnode.com"],
   "faucets": ["https://faucet.polygon.technology/"],
   "infoURL": "https://polygon.technology/"
+}, {
+  "name": "Berachain bArtio",
+  "chainId": 80084,
+  "shortName": "berachainbArtio",
+  "networkId": 80084,
+  "nativeCurrency": {
+    "name": "BERA Token",
+    "symbol": "BERA",
+    "decimals": 18
+  },
+  "rpc": ["https://bartio.rpc.berachain.com", "https://bera-testnet.nodeinfra.com"],
+  "faucets": ["https://bartio.faucet.berachain.com"],
+  "infoURL": "https://www.berachain.com"
 }, {
   "name": "Berachain Artio",
   "chainId": 80085,
