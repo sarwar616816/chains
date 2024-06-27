@@ -15807,16 +15807,29 @@
   "faucets": ["https://rollux.id/faucetapp"],
   "infoURL": "https://rollux.com"
 }, {
-  "name": "COINSEC Network",
+  "name": "COINSEC Network Mainnet",
   "chainId": 57451,
   "shortName": "sec",
   "networkId": 57451,
   "nativeCurrency": {
     "name": "COINSEC",
     "symbol": "SEC",
-    "decimals": 8
+    "decimals": 18
   },
   "rpc": ["https://mainnet-rpc.coinsec.network"],
+  "faucets": [],
+  "infoURL": "https://coinsec.network"
+}, {
+  "name": "COINSEC Network Testnet",
+  "chainId": 57452,
+  "shortName": "sec-testnet",
+  "networkId": 57452,
+  "nativeCurrency": {
+    "name": "COINSEC",
+    "symbol": "SEC",
+    "decimals": 7
+  },
+  "rpc": ["https://testnet-rpc.coinsec.network"],
   "faucets": [],
   "infoURL": "https://coinsec.network"
 }, {

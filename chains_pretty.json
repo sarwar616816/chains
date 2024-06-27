@@ -25615,14 +25615,14 @@
     "standard": "EIP3091"
   }]
 }, {
-  "name": "COINSEC Network",
+  "name": "COINSEC Network Mainnet",
   "chain": "SEC",
   "rpc": ["https://mainnet-rpc.coinsec.network"],
   "faucets": [],
   "nativeCurrency": {
     "name": "COINSEC",
     "symbol": "SEC",
-    "decimals": 8
+    "decimals": 18
   },
   "infoURL": "https://coinsec.network",
   "shortName": "sec",
@@ -25630,7 +25630,28 @@
   "networkId": 57451,
   "icon": "coinsec",
   "explorers": [{
-    "name": "coinsecnetwork",
+    "name": "coinsecexplorer",
+    "url": "https://explorer.coinsec.network",
+    "standard": "EIP3091"
+  }],
+  "status": "active"
+}, {
+  "name": "COINSEC Network Testnet",
+  "chain": "SEC-Testnet",
+  "rpc": ["https://testnet-rpc.coinsec.network"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "COINSEC",
+    "symbol": "SEC",
+    "decimals": 7
+  },
+  "infoURL": "https://coinsec.network",
+  "shortName": "sec-testnet",
+  "chainId": 57452,
+  "networkId": 57452,
+  "icon": "coinsec",
+  "explorers": [{
+    "name": "coinsecexplorer",
     "url": "https://explorer.coinsec.network",
     "standard": "EIP3091"
   }],

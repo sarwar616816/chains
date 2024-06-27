@@ -1216,6 +1216,7 @@
   "doidTestnet": "eip155:56797",
   "tsys-rollux": "eip155:57000",
   "sec": "eip155:57451",
+  "sec-testnet": "eip155:57452",
   "sepPGN": "eip155:58008",
   "linea-goerli": "eip155:59140",
   "linea-sepolia": "eip155:59141",
