@@ -15827,7 +15827,7 @@
   "nativeCurrency": {
     "name": "COINSEC",
     "symbol": "SEC",
-    "decimals": 7
+    "decimals": 18
   },
   "rpc": ["https://testnet-rpc.coinsec.network"],
   "faucets": [],
