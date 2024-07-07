@@ -2261,6 +2261,19 @@
   "faucets": [],
   "infoURL": "https://bmc.bytom.io/"
 }, {
+  "name": "CMDAO BBQ Chain",
+  "chainId": 190,
+  "shortName": "cmdao-bbq-chain",
+  "networkId": 190,
+  "nativeCurrency": {
+    "name": "CommuDAO",
+    "symbol": "CMD",
+    "decimals": 18
+  },
+  "rpc": ["https://bbqchain-rpc.commudao.xyz"],
+  "faucets": [],
+  "infoURL": "https://commudao.xyz"
+}, {
   "name": "FileFileGo",
   "chainId": 191,
   "shortName": "ffg",
@@ -4705,6 +4718,19 @@
   "faucets": [],
   "infoURL": "https://taraxa.io"
 }, {
+  "name": "HongKong Mainnet",
+  "chainId": 852,
+  "shortName": "HongKong",
+  "networkId": 852,
+  "nativeCurrency": {
+    "name": "HongKong",
+    "symbol": "HK",
+    "decimals": 18
+  },
+  "rpc": ["https://eth.jegotrip.net"],
+  "faucets": [],
+  "infoURL": "https://www.cmi.chinamobile.com/"
+}, {
   "name": "Zeeth Chain Dev",
   "chainId": 859,
   "shortName": "zeethdev",
@@ -6265,6 +6291,19 @@
   "faucets": [],
   "infoURL": "http://doschain.io/"
 }, {
+  "name": "JaiHo Chain",
+  "chainId": 1313,
+  "shortName": "JHC",
+  "networkId": 1313,
+  "nativeCurrency": {
+    "name": "JaiHo",
+    "symbol": "JaiHo",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.jaihochain.com"],
+  "faucets": [],
+  "infoURL": "https://jaihochain.com"
+}, {
   "name": "Alyx Mainnet",
   "chainId": 1314,
   "shortName": "alyx",
@@ -6992,6 +7031,19 @@
   "rpc": ["https://rabbit.analog-rpc.com"],
   "faucets": ["https://analogfaucet.com"],
   "infoURL": "https://rabbit.analogscan.com"
+}, {
+  "name": "Lif3 Chain Testnet",
+  "chainId": 1811,
+  "shortName": "lif3-testnet",
+  "networkId": 1811,
+  "nativeCurrency": {
+    "name": "LIF3",
+    "symbol": "LIF3",
+    "decimals": 18
+  },
+  "rpc": ["https://testnet-evm.lif3.com"],
+  "faucets": [],
+  "infoURL": "https://docs.lif3.com/"
 }, {
   "name": "Cube Chain Mainnet",
   "chainId": 1818,
@@ -8292,6 +8344,19 @@
   "rpc": [],
   "faucets": [],
   "infoURL": ""
+}, {
+  "name": "Chronicle Vesuvius - Lit Protocol Testnet",
+  "chainId": 2311,
+  "shortName": "lpv",
+  "networkId": 2311,
+  "nativeCurrency": {
+    "name": "Test LPX",
+    "symbol": "tstLPX",
+    "decimals": 18
+  },
+  "rpc": ["https://vesuvius-rpc.litprotocol.com"],
+  "faucets": ["https://developer.litprotocol.com/support/intro"],
+  "infoURL": "https://litprotocol.com"
 }, {
   "name": "SOMA Network Testnet",
   "chainId": 2323,
@@ -11322,6 +11387,19 @@
   "faucets": ["https://faucet.bit-rock.io"],
   "infoURL": "https://bit-rock.io"
 }, {
+  "name": "GDCC MAINNET",
+  "chainId": 7774,
+  "shortName": "GdccMainnet",
+  "networkId": 7774,
+  "nativeCurrency": {
+    "name": "GDCC",
+    "symbol": "GDCC",
+    "decimals": 18
+  },
+  "rpc": ["https://mainnet-rpc-1.gdccscan.io"],
+  "faucets": [],
+  "infoURL": "https://gdcchain.com"
+}, {
   "name": "GDCC TESTNET",
   "chainId": 7775,
   "shortName": "GDCC",
@@ -11985,6 +12063,19 @@
   "faucets": [],
   "infoURL": "https://lumio.io/"
 }, {
+  "name": "Lif3 Chain",
+  "chainId": 8869,
+  "shortName": "lif3-mainnet",
+  "networkId": 8869,
+  "nativeCurrency": {
+    "name": "LIF3",
+    "symbol": "LIF3",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.lif3.com"],
+  "faucets": [],
+  "infoURL": "https://docs.lif3.com/"
+}, {
   "name": "Unique",
   "chainId": 8880,
   "shortName": "unq",
@@ -12322,6 +12413,19 @@
   "rpc": ["https://testnet-rpc.dogcoin.me"],
   "faucets": ["https://faucet.dogcoin.network"],
   "infoURL": "https://dogcoin.network"
+}, {
+  "name": "Oasys Testnet",
+  "chainId": 9372,
+  "shortName": "OAS_TEST",
+  "networkId": 9372,
+  "nativeCurrency": {
+    "name": "OAS",
+    "symbol": "OAS",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.testnet.oasys.games"],
+  "faucets": [],
+  "infoURL": "https://oasys.games"
 }, {
   "name": "Dela Sepolia Testnet",
   "chainId": 9393,
@@ -13648,6 +13752,19 @@
   "rpc": ["https://rpc.defi-verse.org/"],
   "faucets": [],
   "infoURL": "https://defi-verse.org"
+}, {
+  "name": "Incentiv Devnet",
+  "chainId": 16350,
+  "shortName": "tIncentiv",
+  "networkId": 16350,
+  "nativeCurrency": {
+    "name": "Testnet INC",
+    "symbol": "INC",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.ankr.com/incentiv_devnet"],
+  "faucets": ["https://faucet.incentiv-dev.ankr.network"],
+  "infoURL": "https://incentiv.net"
 }, {
   "name": "Pivotal Sepolia",
   "chainId": 16481,
@@ -15453,6 +15570,19 @@
     "decimals": 18
   },
   "rpc": ["https://zircuit1.p2pify.com/"],
+  "faucets": [],
+  "infoURL": "https://www.zircuit.com/"
+}, {
+  "name": "Zircuit Mainnet",
+  "chainId": 48900,
+  "shortName": "zircuit-mainnet",
+  "networkId": 48900,
+  "nativeCurrency": {
+    "name": "ETH",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [],
   "faucets": [],
   "infoURL": "https://www.zircuit.com/"
 }, {
@@ -17298,7 +17428,7 @@
     "symbol": "VET",
     "decimals": 18
   },
-  "rpc": [],
+  "rpc": ["https://rpc-mainnet.vechain.energy"],
   "faucets": [],
   "infoURL": "https://vechain.org"
 }, {
@@ -17627,6 +17757,19 @@
   "faucets": [],
   "infoURL": "https://metadap.io/"
 }, {
+  "name": "Gemchain",
+  "chainId": 123321,
+  "shortName": "gemchain",
+  "networkId": 123321,
+  "nativeCurrency": {
+    "name": "GEM",
+    "symbol": "GEM",
+    "decimals": 18
+  },
+  "rpc": ["https://evm-rpc.gemchain.org"],
+  "faucets": [],
+  "infoURL": "https://gemchain.org"
+}, {
   "name": "ADIL Devnet",
   "chainId": 123456,
   "shortName": "dadil",
@@ -17834,6 +17977,19 @@
   "rpc": ["https://rpc.hekla.taiko.xyz", "wss://ws.hekla.taiko.xyz"],
   "faucets": [],
   "infoURL": "https://taiko.xyz"
+}, {
+  "name": "Chronicle - Lit Protocol Testnet",
+  "chainId": 175177,
+  "shortName": "lpc",
+  "networkId": 175177,
+  "nativeCurrency": {
+    "name": "Test LIT",
+    "symbol": "tstLIT",
+    "decimals": 18
+  },
+  "rpc": ["https://chain-rpc.litprotocol.com/http"],
+  "faucets": ["https://faucet.litprotocol.com"],
+  "infoURL": "https://developer.litprotocol.com/v3/network/rollup"
 }, {
   "name": "Bitica Chain Mainnet",
   "chainId": 188710,
@@ -18669,11 +18825,11 @@
 }, {
   "name": "AIE Testnet",
   "chainId": 413413,
-  "shortName": "aiet",
+  "shortName": "aie",
   "networkId": 413413,
   "nativeCurrency": {
     "name": "AIE",
-    "symbol": "tAIE",
+    "symbol": "AIE",
     "decimals": 18
   },
   "rpc": ["https://rpc1-testnet.aiechain.io"],
@@ -20356,6 +20512,19 @@
   "rpc": ["https://sepolia.optimism.io", "https://optimism-sepolia.drpc.org", "wss://optimism-sepolia.drpc.org"],
   "faucets": ["https://app.optimism.io/faucet"],
   "infoURL": "https://optimism.io"
+}, {
+  "name": "NeoX Testnet",
+  "chainId": 12227331,
+  "shortName": "neox",
+  "networkId": 12227331,
+  "nativeCurrency": {
+    "name": "Gas",
+    "symbol": "GAS",
+    "decimals": 18
+  },
+  "rpc": ["https://testnet.rpc.banelabs.org/"],
+  "faucets": [],
+  "infoURL": "https://neo.org/"
 }, {
   "name": "COTI Devnet",
   "chainId": 13068200,
